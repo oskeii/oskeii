@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi👋, I'm Sakeyna.
 
-<!--
-**oskeii/oskeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+A Bachelor's Student in Computer Science (graduating May 2025) with a focus on full-stack development. I'm passionate about building intuitive web applications and exploring different software development technologies.
 
-Here are some ideas to get you started:
+## Current Projects
+- **Todo Application**: A full-stack task management application using Django and React
+<!-- - **[Other Project]**: Brief description -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Python, JavaScript, HTML/CSS, SQL, C++
+- **Frameworks**: Django, React
+- **Tools**: Git, Postman, RESTful APIs
+
+## Get in Touch
+- LinkedIn: 
+- Email: 
