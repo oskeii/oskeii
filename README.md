@@ -1,7 +1,7 @@
 ## Hi👋, I'm Sakeyna.
-
+## 🚧UNDER CONSTRUCTION 🚧
 ## About Me
-A Bachelor's Student in Computer Science (graduating May 2025) with a focus on full-stack development. I'm passionate about building intuitive web applications and exploring different software development technologies.
+<!-- A software engineer with a B.S. in Computer Science. I'm passionate about building intuitive web applications and exploring different software development technologies. -->
 
 ## Current Projects
 - **Todo Application**: A full-stack task management application using Django and React
