@@ -9,7 +9,7 @@
 
 ## Skills
 - **Languages**: Python, JavaScript, HTML/CSS, SQL, C++
-- **Frameworks**: Django, React
+- **Frameworks**: Django, React, Tailwind CSS
 - **Tools**: Git, Postman, RESTful APIs
 
 ## Get in Touch
