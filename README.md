@@ -1,17 +1,27 @@
 ## Hi👋, I'm Sakeyna.
-## 🚧UNDER CONSTRUCTION 🚧
-## About Me
-<!-- A software engineer with a B.S. in Computer Science. I'm passionate about building intuitive web applications and exploring different software development technologies. -->
 
-## Current Projects
-- **Todo Application**: A full-stack task management application using Django and React
+### About Me
+✨recent computer science graduate
+
+- interested in... backend development, data engineering, and open-source software
+- and IT/Cybersecurity (my someday _probably_ goal 😋)
+- i like python the best.
+- currently:
+  - a noobie linux user 🐧(mint btw😎) 
+  - _immersing_ myself in japanese language study (pretty decent if i do say so myself 😏)
+  - oh, and TRYING to get HIRED ☝️😔🤲
+
+### Current Projects
+- **[Todo Application](https://github.com/oskeii/simon-tasks)**: A full-stack task management application using Django, React, and Tailwind
 <!-- - **[Other Project]**: Brief description -->
 
-## Skills
+### Skills
 - **Languages**: Python, JavaScript, HTML/CSS, SQL, C++
 - **Frameworks**: Django, React, Tailwind CSS
 - **Tools**: Git, Postman, RESTful APIs
 
-## Get in Touch
+<!--
+### Get in Touch
 - LinkedIn: 
 - Email: 
+-->
